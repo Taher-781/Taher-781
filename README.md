@@ -11,7 +11,7 @@ With a strong focus on maintaining, securing, and optimizing network infrastruct
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Tines SOAR           | SOAR-EDR Automation Lab|
+| Security Automation with Tines SOAR           | <a href="https://github.com/Taher-781/SOAR_EDR/tree/main">SOAR-EDR Automation Lab</a>|
 
 
 ## Tools
@@ -58,4 +58,4 @@ With a strong focus on maintaining, securing, and optimizing network infrastruct
 
 ## Projects
 - Detection Lab
-- SOAR-EDR Automation Project
+- <a href="https://github.com/Taher-781/SOAR_EDR/tree/main">SOAR-EDR Automation Lab</a>
