@@ -10,7 +10,7 @@ With a strong focus on maintaining, securing, and optimizing network infrastruct
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
+| Network Sniffer |<a href="https://github.com/Taher-781/Network-Sniffer.git">Network Sniffer</a>|
 | Security Automation with Tines SOAR           | <a href="https://github.com/Taher-781/SOAR_EDR/tree/main">SOAR-EDR Automation Lab</a>|
 
 
@@ -57,5 +57,5 @@ With a strong focus on maintaining, securing, and optimizing network infrastruct
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Taher-781/Network-Sniffer.git">Network Sniffer</a>
 - <a href="https://github.com/Taher-781/SOAR_EDR/tree/main">SOAR-EDR Automation Lab</a>
