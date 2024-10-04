@@ -13,10 +13,6 @@ With a strong focus on maintaining, securing, and optimizing network infrastruct
 | Network Sniffer |<a href="https://github.com/Taher-781/Network-Sniffer.git">Network Sniffer</a>|
 | Security Automation with Tines SOAR           | <a href="https://github.com/Taher-781/SOAR_EDR/tree/main">SOAR-EDR Automation Lab</a>|
 
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network Management & Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
