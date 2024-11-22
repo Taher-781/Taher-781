@@ -22,7 +22,9 @@ With a strong focus on maintaining, securing, and optimizing network infrastruct
 ### Automation & Configuration Management
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
 </div>
 
 ### Virtualization & Cloud Networking
@@ -30,7 +32,6 @@ With a strong focus on maintaining, securing, and optimizing network infrastruct
    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
   <img src="https://img.shields.io/badge/-Hyper--V-0089D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-GCP-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
 
 ### Troubleshooting & Diagnostics
